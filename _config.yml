@@ -50,7 +50,7 @@ features                                  :
     description                           : Skin is a layer with more subtle features for an artist to capture.
     fontawesome_icon_name                 : smile
 
-  - title                                 : /"Gypsum Mode/"
+  - title                                 : "Gypsum Mode"
     description                           : You can turn your model into a sculpture.
     fontawesome_icon_name                 : chess-pawn
   
