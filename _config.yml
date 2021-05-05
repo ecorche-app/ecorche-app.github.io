@@ -34,41 +34,29 @@ youtube_username                          : KirillChikalin
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Skeletal
+    description                           : The foundation of the body, the bony landmarks help us track the muscles.
+    fontawesome_icon_name                 : skull
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Muscular
+    description                           : Muscles give the body it’s basic shape.
+    fontawesome_icon_name                 : dumbbell
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Fat
+    description                           : Fat pads have a major effect on the shape of the face.
+    fontawesome_icon_name                 : hamburger
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Skin
+    description                           : Skin is a layer with more subtle features for an artist to capture.
+    fontawesome_icon_name                 : smile
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : /"Gypsum Mode/"
+    description                           : You can turn your model into a sculpture.
+    fontawesome_icon_name                 : chess-pawn
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Light control
+    description                           : You can also customize the three-point lighting to your taste and thus study shape, value and color.
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
