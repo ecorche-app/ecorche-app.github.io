@@ -50,14 +50,14 @@ features                                  :
     description                           : Skin is a layer with more subtle features for an artist to capture.
     fontawesome_icon_name                 : smile
 
-  - title                                 : "Gypsum Mode"
-    description                           : You can turn your model into a sculpture.
-    fontawesome_icon_name                 : chess-pawn
-  
   - title                                 : Light control
     description                           : You can also customize the three-point lighting to your taste and thus study shape, value and color.
     fontawesome_icon_name                 : lightbulb
 
+  - title                                 : "Gypsum Mode"
+    description                           : You can turn your model into a sculpture.
+    fontawesome_icon_name                 : chess-pawn
+ 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
