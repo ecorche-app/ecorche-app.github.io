@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Fat
     description                           : Fat pads have a major effect on the shape of the face.
-    fontawesome_icon_name                 : pizza-slice
+    fontawesome_icon_name                 : layer-group
 
   - title                                 : Skin
     description                           : Skin is a layer with more subtle features for an artist to capture.
