@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Freemium                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A 3D facial Ecorche Bust
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -20,13 +20,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Kirill Chikalin                                
-your_link                                 : https://linktr.ee/kirillchikalin                     
-your_city                                 : Moscow, Russia                                
-email_address                             : kirill@chikalin.ru
+your_link                                 : https://linktr.ee/kirillchikalin                                                     
+email_address                             : help@ecorche.app
 facebook_username                         :                                           
-instagram_username                        : kirill.chikalin
+instagram_username                        : ecorcheapp
 twitter_username                          : 
-github_username                           : kirillchikalin
+github_username                           : 
 youtube_username                          : KirillChikalin
 
 
