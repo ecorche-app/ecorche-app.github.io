@@ -10,6 +10,26 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
+## **Version 1.7.2** 
+*Nov, 2022*
+* **[new]** Support split screen for iPad
+* **[fix]** Camera control optimization
+
+<br>
+
+## **Version 1.7** 
+*Jul 8, 2022*
+* **[new]** Update user interface
+* **[fix]** Performance optimization
+
+<br>
+
+## **Version 1.6.3** 
+*Aug 15, 2021*
+* **[new]** Intuitive light control
+
+<br>
+
 ## **Version 1.5** 
 *Mar 22, 2021*
 * **[new]** Reset view button (the Help (?) section)
