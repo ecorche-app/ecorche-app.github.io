@@ -19,6 +19,7 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 ## **Version 1.7** 
 *Jul 8, 2022*
+* **[new]** MacOS version
 * **[new]** Update user interface
 * **[fix]** Performance optimization
 
