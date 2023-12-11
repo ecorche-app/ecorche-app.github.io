@@ -10,6 +10,20 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
+## **Version 1.8.0** 
+*Dec, 2023*
+* **[fix]** Quality and performance improvements
+* **[new]** View labels in Latin, German, French and Spanish
+* **[new]** Better quality and sharper labels
+
+<br>
+
+## **Version 1.7.3-1.7.4**
+*May, 2023*
+* **[new]** Move the camera with 2 fingers
+
+<br>
+
 ## **Version 1.7.2** 
 *Nov, 2022*
 * **[new]** Support Split View for iPad
